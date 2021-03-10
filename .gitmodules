@@ -1,0 +1,3 @@
+[submodule "aqa-core"]
+	path = aqa-core
+	url = https://github.com/gwp78/aqa-core.git
