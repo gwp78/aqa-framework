@@ -13,6 +13,7 @@ In each folder execute commands:
   * git checkout -b origin/master
   * git pull
 
+Framework uses [Yandex Allure](http://allure.qatools.ru/) as reporting system.
 
 (P.S.) If I have more time I will add two approaches for Selenium UI testing:
   * selenium + cucumber + junit + Page object pattern
